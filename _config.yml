@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Shuya Yang"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : "Hi, I’m Shuya Yang! Starting September 2025, I’ll begin my MPhil journey at HKU CDS under Prof. Ka-Ho Chow’s supervision. I previously completed my BEng in Computer Science at HKU, where I was supervised by Prof. Kenneth K.Y. Wong."
   location         : "Hong Kong"
   employer         : "The University of Hong Kong"
   uri              : # URL
@@ -34,11 +34,11 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=ouj6v0AAAAAJ&hl=en&authuser=1"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
